@@ -2,5 +2,8 @@
 
 Relación de módulos que son interesantes para aprender Drupal
 
-Developer --> permite generar contenido de prueba para rellenar el Drupal
+admin_toolbar --> hace más fácil la navegación por los menús de administración de Drupal.
 
+devel --> permite generar contenido de prueba para rellenar el Drupal
+
+examples -->
