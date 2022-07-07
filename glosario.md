@@ -5,27 +5,31 @@
 
 # A
 
+## administrador - admin
 
 # B
 
-## Bloque
-Los bloques ( blocks en inglés) son contenidos principalmente dinámicos que se pueden habilitar en distintas zonas (denominadas regiones) del tema del sitio. Por ejemplo, un bloque puede mostrar los últimos usuarios registrados, los últimos comentarios publicados en el sitio o un calendario de eventos.
+## bloque - block
+Son contenidos principalmente dinámicos que se pueden habilitar en distintas zonas (denominadas regiones) del tema del sitio. Por ejemplo, un bloque puede mostrar los últimos usuarios registrados, los últimos comentarios publicados en el sitio o un calendario de eventos.
 
 
 # C
 
-## Core
+## cache - cache
 
-El núcleo aporta a drupal la base necesaria para su funcionamiento y para la incorporación del resto de componentes de la arquitectura.
-
+## consola de drupal - drupal console
 
 
 # D
 
+## drush - drush
+
+
+
 
 # E
 
-## Entidades
+## entidad - entity
 Las entidades son elementos a los que se les puede añadir campos de información de diferentes tipos (texto, imagen, archivo, número, fecha, etc.). Su finalidad es homogeneizar la gestión y presentación de campos adicionales. Algunas entidades en Drupal son los usuarios, los nodos, los términos de taxonomía y los comentarios. 
 
 # F
@@ -55,18 +59,23 @@ Los menús facilitan la organización de los nodos publicados. Drupal integra un
 ## Menú de administración
 Toda la administración del sitio se lleva a cabo a través del menú de Administración (Management), este menú se divide en grupos de tareas, teniendo inicialmente las siguientes opciones principales: Panel de control, Contenido, Estructura, Apariencia, Personas, Módulos, Configuración, Informes, Ayuda.
 
-## Módulo
+## módulo - module
 Pieza de software que aporta funcionalidades adicionales al nucleo de drupal. Existen dos tipos de módulos contrib y custom.
 
-## Módulo contribuido (contrib)
+## módulo contribuido - contrib module
 
-## Módulo personalizado (custom)
+## módulo personalizado - custom module
 
 
 # N
 
-## Nodo
+## nombre de máquina - machine name
+
+## nodo - node
 Conjunto de datos que puede ser presentado en el sitio web, usualmente asociado a un tipo de cotenido.
+
+## núcleo - core
+El núcleo aporta a drupal la base necesaria para su funcionamiento y para la incorporación del resto de componentes de la arquitectura.
 
 
 # O
@@ -75,25 +84,40 @@ Conjunto de datos que puede ser presentado en el sitio web, usualmente asociado 
 # P
 
 
+
+
+## permisos
+Conjunto de acciones permitidas para los usuarios del sitio web .De esta forma se controla si el usuario puede o no realizar una determinada acción.
+
+
 # Q
 
 
 # R
+
+## regiones - regions
+Las regiones son áreas visuales que permiten la introducción de bloques de contenido.
+
+## rol - rol
+Un rol es un conjunto de permisos, y cada usuario puede tener asignados diferentes roles. 
+
+## ruta - path
+Ruta a un contenido del sitio web, normalmente una URL.
 
 
 # S
 
 # T
 
-## Taxonomia
+## taxonomia - taxonomy
 La taxonomía permite la clasificación de los contenidos del sitio. El módulo Taxonomy de Drupal está constituido por dos elementos fundamentales: los vocabularios (o categorías) y los términos (o etiquetas). Cada vocabulario puede agrupar a uno o más términos. Drupal nos permite a través de los vocabularios categorizar los nodos y por medio de los términos describir aspectos particulares de éstos.
 
-## Tema
-El tema ( theme en inglés) define un diseño específico para el sitio web. Existe un repositorio oficial de temas libres de Drupal, que pueden ser descargados y modificados para adaptarlos al diseño de nuestro sitio.
+## tema - theme
+Define un diseño específico para el sitio web. Existe un repositorio oficial de temas libres de Drupal, que pueden ser descargados y modificados para adaptarlos al diseño de nuestro sitio.
 Mediante el uso de temas, Drupal separa los contenidos del diseño, de forma que es posible cambiar el aspecto del sitio cambiando o modificando el tema. La forma más fácil de personalizar los temas es modificando las hojas de estilo CSS que contienen.
 Los temas se dividen en regiones, que son áreas diferenciadas en las que se puede colocar contenido. Por ejemplo, una región puede ser la cabecera, y otra podría ser la columna lateral izquierda.
 
-## Tipo de contenido
+## tipo de contenido - content type
 Normalmente relacionado con un Nodo, dicese de los diferentes conjuntos de datos presentables gestionados en el sitio web. los cipos de contenido iniciales en drupal 7 y 8 son : Article(contenido que permite introsucir informaciones variables en el sitio web ) y Page (contenido estatico del sitio web). 
 
 # U
