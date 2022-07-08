@@ -63,9 +63,10 @@ Toda la administración del sitio se lleva a cabo a través del menú de Adminis
 Pieza de software que aporta funcionalidades adicionales al nucleo de drupal. Existen dos tipos de módulos contrib y custom.
 
 ## módulo contribuido - contrib module
+módulos creados por la comunidad drupal.
 
 ## módulo personalizado - custom module
-
+módulos creados por nosotros.
 
 # N
 
