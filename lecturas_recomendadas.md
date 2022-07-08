@@ -20,13 +20,16 @@
 
 - URL: https://www.solucionex.com/blog/quiero-ser-drupalero-por-donde-empiezo
 
-Plan de estudios/conocimientos
+Plan de estudios/conocimientos del artículo y de la experiencia
 
 - Módulo 0. Requisitos Básicos
     - Inglés
     - html, css , js
     - JS vainilla, JS jQuery
     - PHP paradigma POO
+    - Visual Sudio Code
+    - Firefox DevTools, Chrome Developers Tools
+    - GlosarioDrupal
     
 - Módulo 1. Site Building Básico.
     - Site-Building Básico
@@ -34,13 +37,17 @@ Plan de estudios/conocimientos
     - Composer, Drush, Drupal Console
 
 - Módulo 2. Frontend Básico.
-    - theming
+    - Bootstrap
+    - Theming
 
 - Módulo 3. Backend Básico.
-    - 
+    - PHP paradigma POO
     - Composer, Drush, Drupal Console
+
 - Módulo 4. Requisitos Laborales.
-    - git
+    - ubuntu, ufw, apache 2.4, php-fpm, mysql
+    - Red Hat, firewalld, selinux, nginx, php-fpm, mysql  
+    - git, github, gitlab
     - docker, devops
     - sass, less como preprocesadores de css
     - gestores dependencias paquete: webpack, gulp, laravel mix
