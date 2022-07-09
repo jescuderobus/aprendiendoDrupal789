@@ -1,8 +1,8 @@
 # Glosario de términos de Drupal
-Puede encontrar este glosario [aquí](https://github.com/jescuderobus/aprendiendoDrupal789/blob/main/glosario.md).
 
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
+_____
 # A
 ### Acquia
 Es una compañia de servicios de software fundada por el creador de Drupal Dries Buytaert. Se dedica a dar soporte a nivel empresarial a Drupal.
@@ -12,6 +12,7 @@ Entorno de desarrollo para Mac y para Windows que permite realizar una instalaci
 
 ### administrador - admin
 
+_____
 # B
 
 ### bloque - block
@@ -25,6 +26,9 @@ Son contenidos principalmente dinámicos que se pueden habilitar en distintas zo
 ### campos - fields
 
 ### consola de drupal - drupal console
+
+### composer
+Es un sistema de gestión de paquetes para programar en PHP el cual provee los formatos estándar necesarios para manejar dependencias y librerías de PHP.
 
 
 # D
@@ -147,5 +151,7 @@ Normalmente relacionado con un Nodo, dicese de los diferentes conjuntos de datos
 # Z
 
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
+
+
 
 
