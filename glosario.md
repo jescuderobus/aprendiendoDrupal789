@@ -36,7 +36,8 @@ ___
 ### consola de drupal - drupal console
 
 ### composer
-Es un sistema de gestión de paquetes para programar en PHP el cual provee los formatos estándar necesarios para manejar dependencias y librerías de PHP. LA forma recomendada de instalar Drupal es con composer:
+Es un gestor de dependencias para aplicaciones implementadas en PHP. Composer se encarga de descargar los paquetes y librerías que requiere el proyecto con las versiones adecuadas, descargando también las dependencias adicionales que pueda tener cada módulo o librería.
+La forma recomendada de instalar Drupal es con composer:
 ```bash
 composer create-project drupal/recommended-project my_site_name_dir
 
